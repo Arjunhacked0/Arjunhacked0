@@ -20,8 +20,6 @@ Arjun Sahani is a skilled front-end web developer with a passion for creating be
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arjun sahani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="software-developer-g4996e93a4_1920" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arjun sahani&icon=0&color=0)](https://visitcount.itsvg.in)
